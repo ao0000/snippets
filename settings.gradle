@@ -1,7 +1,0 @@
-include(
-        ':shared',
-        ':slice',
-        ':bluetoothle',
-        ':compose:recomposehighlighter',
-        ':kotlin',
-)
